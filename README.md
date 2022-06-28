@@ -1,31 +1,23 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
 <h3 align="center">A software developer attempting to tackle real-world problems and make your job easier.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-malode&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-malode" /> </p>
+Skills:  JS / HTML / CSS/ DART /ML 
 
-<p align="left"> <a href="https://twitter.com/atharva_malode" target="blank"><img src="https://img.shields.io/twitter/follow/atharva_malode?logo=twitter&style=for-the-badge" alt="atharva_malode" /></a> </p>
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Machine Learning 
+- 💬 Ask me about Data Structures and Algorithms / ML 
+- 📫 How to reach me: Atharvamalode21@gmail.com 
+- ⚡ Fun fact: solving real life issues  
 
-- 🔭 I’m currently working on **Music genre classification**
 
-- 🌱 I’m currently learning **Machine learning ,deep learning**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atharva-Malode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/atharva-malode-074414206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atharva_malode_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@atharvamalode)  
 
-- 📝 I regularly write articles on [https://medium.com/@atharvamalode](https://medium.com/@atharvamalode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Malode)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Ask me about **Data Structures , Machine Learning , Android dev**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Malode&show_icons=true)  
 
-- 📫 How to reach me **Atharvamalode21@gmail.com**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Atharva-Malode)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atharva_malode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharva_malode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-malode-074414206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-malode-074414206" height="30" width="40" /></a>
-<a href="https://instagram.com/atharva_malode_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharva_malode_" height="30" width="40" /></a>
-<a href="https://medium.com/@atharvamalode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atharvamalode" height="30" width="40" /></a>
-<a href="/https://medium.com/@atharvamalode21/beginners-guide-to-machine-learning-f4faca874e3c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@atharvamalode21/beginners-guide-to-machine-learning-f4faca874e3c" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Malode)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-malode&show_icons=true&locale=en&layout=compact" alt="atharva-malode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva-malode&show_icons=true&locale=en" alt="atharva-malode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-malode&" alt="atharva-malode" /></p>
+![Profile views](https://gpvc.arturio.dev/Atharva-Malode)  
