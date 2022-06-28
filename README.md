@@ -10,7 +10,7 @@ Skills:  JS / HTML / CSS/ DART /ML
 - ⚡ Fun fact: solving real life issues  
 
 
-[<img src='"C:\Users\atharva\Downloads\github.svg"' alt='github' height='40'>](https://github.com/Atharva-Malode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/atharva-malode-074414206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atharva_malode_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@atharvamalode)  
+[<img src='"https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"' alt='github' height='40'>](https://github.com/Atharva-Malode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/atharva-malode-074414206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atharva_malode_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@atharvamalode)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Malode)](https://github.com/anuraghazra/github-readme-stats)
 
