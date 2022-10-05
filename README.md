@@ -99,12 +99,9 @@ My Name is Atharva, A software developer attempting to tackle real-world problem
 </p>
 
 ---
-<!--![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Atharva-Malode&hide_border=true&theme=redical)-->
-
----
 
 <p align="center">
- ![GitHub Snake dark](github-user-contribution.svg#gh-dark-mode-only)
+   <img src="https://github.com/Atharva-Malode/Atharva-Malode/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
