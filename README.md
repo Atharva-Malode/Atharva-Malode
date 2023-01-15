@@ -95,7 +95,8 @@ My Name is Atharva, A software developer attempting to tackle real-world problem
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Malode&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Malode&layout=compact&theme=radical" />
+	
 </p>
 
 ---
