@@ -80,7 +80,7 @@ My Name is Atharva, A software developer attempting to tackle real-world problem
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Atharva-Malode&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Atharva-Malode&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Malode&hide_border=true&theme=radical" />
 </p>
 
