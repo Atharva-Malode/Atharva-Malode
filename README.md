@@ -16,47 +16,25 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+Name+is+Atharva%2C+;A+software+developer+;attempting+to+tackle+;real-world+problems+;+feel+free+to+connect+with+me">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=445&lines=My+Name+is+Atharva%2C;A+software+developer;attempting+to+tackle;real+world+problems;feel+free+to+connect+with+me">
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/atharva-malode-074414206/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://instagram.com/atharva_malode_?igshid=YmMyMTA2M2Y=">
-		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-	</a>
-	<a href="https://medium.com/@atharvamalode">
-		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-	</a>
-        <a href="https://github.com/Atharva-Malode">
-		<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-	</a>
-        <a href="mailto:atharvamalode21@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
-
----
 
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 
 ### 🧩 Libraries & Framework
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=Ff7043)&nbsp;
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -96,7 +74,22 @@
 
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Malode&layout=compact&theme=radical" />
-	
+
+  ### connect with me :
+<p align="center">
+	<a href="https://www.linkedin.com/in/atharva-malode-074414206/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://instagram.com/atharva_malode_?igshid=YmMyMTA2M2Y=">
+		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+	</a>
+	<a href="https://medium.com/@atharvamalode">
+		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+	</a>
+        <a href="mailto:atharvamalode21@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>	
 </p>
 
 ---
