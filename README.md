@@ -101,10 +101,6 @@ My Name is Atharva, A software developer attempting to tackle real-world problem
 
 ---
 
-<p align="center">
-   <img src="https://github.com/Atharva-Malode/Atharva-Malode/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 
 
 
