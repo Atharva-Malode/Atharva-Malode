@@ -25,7 +25,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
+<img align="right" height="250" src = "https://media.giphy.com/media/JrpfevOVogixZYWp9O/source.gif">
 ### 🚀 Languages
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
