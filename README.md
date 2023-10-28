@@ -18,6 +18,10 @@
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=445&lines=My+Name+is+Atharva%2C;A+software+developer;attempting+to+tackle;real+world+problems;feel+free+to+connect+with+me">
 </p> 
+<p align = "center">
+	<img src = "https://profile-counter.glitch.me/{Atharva-Malode}/count.svg">
+<!-- 	<img src = "https://komarev.com/ghpvc/?username=Atharva-Malode"> -->
+</p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -33,27 +37,26 @@
 
 ### 🧩 Libraries & Framework
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=Ff7043)&nbsp;
+![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit&logoColor=FF0000)&nbsp;
+![Open CV](https://img.shields.io/badge/-open%20CV-05122A?style=flat&logo=opencv&logoColor=00FF00)&nbsp;
+![Fast API](https://img.shields.io/badge/-fastapi-05122A?style=flat&logo=fastapi&logoColor=00FF00)&nbsp;
+![React](https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react&logoColor=0000FF)&nbsp;
 
 ### 🧑🏻‍💻 Tools & Platform
 
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-### 💻 Workspace
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=Ff7043)&nbsp;
+![Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure&logoColor=1572B6)&nbsp;
+![Github Action](https://img.shields.io/badge/-Github%20Action-05122A?style=flat&logo=githubactions&logoColor=1572B6)&nbsp;
 
 ## 📈 Stats
 
