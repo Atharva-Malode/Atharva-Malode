@@ -9,17 +9,17 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently learning [Docker](https://www.docker.com/).
+* 💻 Currently learning [Kubernetes](https://kubernetes.io/).
 
-* 📰 Subscribe to my Personal Blogs: 
+* 📰 Subscribe to my [Personal Blogs](https://medium.com/@atharvamalode)
+
+&nbsp;&nbsp;&nbsp;
 
 <p align="center">
-<a href="https://medium.com/@atharvamalode">
-   <img src="https://img.shields.io/badge/Revue-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
-</a>
-</p>	
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+Name+is+Atharva%2C+;A+software+developer+;attempting+to+tackle+;real-world+problems+;+feel+free+to+connect+with+me">
+</p> 
 
-My Name is Atharva, A software developer attempting to tackle real-world problems and make your job easier, feel free to connect with me here:
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/atharva-malode-074414206/">
